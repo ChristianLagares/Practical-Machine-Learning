@@ -1,0 +1,11 @@
+base
+ggplot2
+lattice
+caret
+gtable
+data.table
+randomForest
+foreach
+rpart
+rpart.plot
+corrplot
